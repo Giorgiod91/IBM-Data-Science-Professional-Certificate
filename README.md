@@ -1,4 +1,2 @@
-i want to get into ml/ data science and i will try to learn as much as possible from andrew NG and
-Andrej Karpathy youtube videos
-
-this course will dive me deeper into data science to get the full package
+This repo documents my learning journey through the IBM Data Science Professional Certificate
+and to learn about Data Science to make projects out of what i learned
